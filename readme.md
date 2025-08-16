@@ -1,6 +1,8 @@
 # Cravory – Responsive Food Delivery Web App
 
-Cravory is a responsive and interactive food delivery web application built using HTML5, CSS3, and JavaScript. The project replicates core functionalities of modern food ordering platforms, offering users an engaging and seamless experience from browsing dishes to adding them to a cart.
+A responsive and interactive food delivery web app built with HTML, CSS, and JavaScript. 🍽️
+Cravory brings authentic homemade flavors online with live search, dynamic cart, modals, and engaging video pop-ups. Designed with mobile-first layouts, smooth animations, and user-friendly forms, it ensures a seamless ordering experience across devices. Perfect blend of clean code, performance optimization, and modern UI/UX for foodies craving convenience and creativity. 🚀
+
 
 
 
@@ -41,6 +43,10 @@ Optimized Performance: Fast, lightweight, and cross-browser compatible.
 ├── style.css         # Stylesheet for layout and design  
 ├── script.js         # JavaScript for interactivity  
 └── images            # Images, icons, and media files  
+
+
+
+
 
 
 
