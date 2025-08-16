@@ -3,7 +3,7 @@
 Cravory is a responsive and interactive food delivery web application built using HTML5, CSS3, and JavaScript. The project replicates core functionalities of modern food ordering platforms, offering users an engaging and seamless experience from browsing dishes to adding them to a cart.
 
 
-✨ ## Features
+✨ ##Features
 
 Responsive Design: Works smoothly on desktop, tablet, and mobile devices.
 Live Search: Quickly find dishes or cuisines with an instant search bar.
