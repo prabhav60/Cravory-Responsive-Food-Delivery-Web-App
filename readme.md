@@ -1,20 +1,18 @@
 # Cravory – Responsive Food Delivery Web App
 
-*A responsive and interactive food delivery web app built with HTML, CSS, and JavaScript. 🍽️
-Cravory brings authentic homemade flavors online with live search, dynamic cart, modals, and engaging video pop-ups. Designed with mobile-first layouts, smooth animations, and user-friendly forms, it ensures a seamless ordering experience across devices. Perfect blend of clean code, performance optimization, and modern UI/UX for foodies craving convenience and creativity. 🚀
+* A responsive and interactive food delivery web app built with HTML, CSS, and JavaScript. 🍽️
+* Cravory brings authentic homemade flavors online with live search, dynamic cart, modals, and engaging video pop-ups. Designed with mobile-first layouts, smooth animations, and user-friendly forms, it ensures a seamless ordering experience across devices. Perfect blend of clean code, performance optimization, and modern UI/UX for foodies craving convenience and creativity. 🚀
 
 
 
 
-<h2> ✨ Features </h2>
+## ✨ Features  
 
-* Responsive Design: Works smoothly on desktop, tablet, and mobile devices.
-* Live Search: Quickly find dishes or cuisines with an instant search bar.
-* Shopping Cart: Add, remove, and view selected dishes in real-time.
-* Interactive UI: Includes modals, hover effects, animations, and video pop-ups.
-* User Forms: Checkout, contact, and custom request forms with validation.
-* Optimized Performance: Fast, lightweight, and cross-browser compatible.
-
+- 📱 **Responsive Design** – Optimized for desktop, tablet, and mobile devices.  
+- 🔍 **Live Search** – Instantly search food items with dynamic filtering.  
+- 🛒 **Shopping Cart** – Add, remove, and update items easily.  
+- 🎥 **Video Pop-ups** – Engaging food showcase with smooth modals.  
+- 📧 **Contact Form** – Simple form with basic validation for user input.
 
 
 <h2> 🚀 How to Run the Project </h2>
@@ -34,9 +32,6 @@ Cravory brings authentic homemade flavors online with live search, dynamic cart,
 
    Use VS Code with the Live Server extension.
    Right-click index.html → “Open with Live Server”.
-
-![Homepage](./5bfc0509-ab2b-4c88-bbbc-1740f18ae2ba.png)  
-
    
 
 
