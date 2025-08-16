@@ -9,7 +9,7 @@ Cravory brings authentic homemade flavors online with live search, dynamic cart,
 <h2> ✨ Features </h2>
 
 -> Responsive Design: Works smoothly on desktop, tablet, and mobile devices.
-Live Search: Quickly find dishes or cuisines with an instant search bar.
+-> Live Search: Quickly find dishes or cuisines with an instant search bar.
 Shopping Cart: Add, remove, and view selected dishes in real-time.
 Interactive UI: Includes modals, hover effects, animations, and video pop-ups.
 User Forms: Checkout, contact, and custom request forms with validation.
